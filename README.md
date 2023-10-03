@@ -1,6 +1,7 @@
 # Angel Leal
 
-![Professional Image or Research Image](path-to-your-image.jpg)
+![image](https://github.com/avvngel/avvngel.github.io/assets/67604996/8e771526-5643-4aed-961e-bf466fdfdb9f)
+
 
 ## Bio & Interests
 I am a Mechanical Engineering and Finance undergraduate student at The University of Texas at Austin in my final year. My academic journey has exposed me to the multifaceted worlds of engineering and business, with mathematics consistently emerging as the underlying pillar. Currently, I am pursuing a certificate offered by the university in Computational Science and Engineering, enabling me to take courses taught by professors at the Oden Institute. This experience has greatly enhanced my appreciation for the depth and breadth of mathematical applications and increased my desire to continue my studies. My long-term goal is to obtain a Ph.D. in computational engineering or a related discipline and delve into research that advances our understanding of the field.
