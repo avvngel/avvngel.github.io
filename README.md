@@ -29,6 +29,13 @@ I am a Mechanical Engineering and Finance undergraduate student at The Universit
 - Developed a rudimentary simulation in Python to assist with motor and battery selection, and copter propulsion design
 - Outlined modular AI architecture for outer-loop control to explore the possibility of implementing autonomous flight
 
+  ![image](https://github.com/avvngel/avvngel.github.io/assets/67604996/6852f688-5560-410f-8efe-8cb4a8d0d4c8)
+  ![image](https://github.com/avvngel/avvngel.github.io/assets/67604996/32d71991-db8e-46aa-b259-34dfd07b6fe2)
+   ![image](https://github.com/avvngel/avvngel.github.io/assets/67604996/47d4fe15-535c-4824-bf31-e21caaaffd4c)
+  ![image](https://github.com/avvngel/avvngel.github.io/assets/67604996/c3841f77-2f80-4ebe-b4c1-6e87cee25d48)
+
+
+
 **SiDi Lab – Undergraduate Research Assistant** | Austin, TX | January 2023 - Present
 - Drafted AutoEncoder architecture in PyTorch for use in larger cross-modal deep-learning framework
 - Utilized convolutional layers along with normalizations and pooling to extract important features from image data
@@ -47,8 +54,12 @@ I am a Mechanical Engineering and Finance undergraduate student at The Universit
 ---
 
 **Contact & Affiliation**
-- Email: your-email@email.com
-- ![UT Austin Logo](path-to-UT-logo.png) ![Department or Institute Logo](path-to-Department-logo.png)
+- Email: angelanselmoleal@gmail.com
+![image](https://github.com/avvngel/avvngel.github.io/assets/67604996/bba5bf62-ab35-4f1c-85be-28bfded9c9cc)
+
+![image](https://github.com/avvngel/avvngel.github.io/assets/67604996/1fa7d22a-4c5f-421b-939f-8f54dd92e13e)
+
+![image](https://github.com/avvngel/avvngel.github.io/assets/67604996/f048dcc9-2a35-4807-8bb4-e76a39f47fd2)
 
 ---
 
