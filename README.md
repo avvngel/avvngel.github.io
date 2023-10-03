@@ -31,7 +31,7 @@ I am a Mechanical Engineering and Finance undergraduate student at The Universit
 
   ![image](https://github.com/avvngel/avvngel.github.io/assets/67604996/6852f688-5560-410f-8efe-8cb4a8d0d4c8)
   ![image](https://github.com/avvngel/avvngel.github.io/assets/67604996/32d71991-db8e-46aa-b259-34dfd07b6fe2)
-   ![image](https://github.com/avvngel/avvngel.github.io/assets/67604996/47d4fe15-535c-4824-bf31-e21caaaffd4c)
+  ![image](https://github.com/avvngel/avvngel.github.io/assets/67604996/47d4fe15-535c-4824-bf31-e21caaaffd4c)
   ![image](https://github.com/avvngel/avvngel.github.io/assets/67604996/c3841f77-2f80-4ebe-b4c1-6e87cee25d48)
 
 
