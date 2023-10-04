@@ -63,6 +63,3 @@ I am a Mechanical Engineering and Finance undergraduate student at The Universit
 ![image](https://github.com/avvngel/avvngel.github.io/assets/67604996/f048dcc9-2a35-4807-8bb4-e76a39f47fd2)
 
 ---
-
-Remember to integrate the Google Analytics tracking using the `_config.yml` of your Jekyll site on GitHub Pages.
-
